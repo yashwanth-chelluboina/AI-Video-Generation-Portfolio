@@ -1,0 +1,17 @@
+AI Animated Story
+Shot : Create a 15-second, ultra-detailed, cinematic animated short film that feels professionally handcrafted, emotionally engaging, and visually indistinguishable from a high-quality studio production.
+STORY: Create a short, meaningful story with a compelling opening, a clear emotional development, an unexpected twist, and a satisfying ending, all within 15 seconds.
+VISUAL QUALITY: Extremely detailed environments, realistic materials and textures, natural character movements, expressive faces, accurate anatomy, believable physics, subtle imperfections, realistic lighting, global illumination, cinematic shadows, volumetric atmosphere, physically accurate reflections, detailed hair and clothing, natural eye movements, and professional cinematic color grading. Every frame must feel intentional and visually consistent.
+ANIMATION: Smooth, natural character animation with realistic body mechanics, subtle gestures, believable weight and momentum, accurate object interactions, and continuous motion. Avoid robotic movements, exaggerated expressions, unnatural transitions, floating objects, or inconsistent character designs. Maintain the exact same character appearance throughout every shot.
+CAMERA: Use professional cinematography, carefully composed shots, natural depth of field, realistic lens characteristics, subtle handheld movement when appropriate, smooth tracking shots, meaningful close-ups, and seamless transitions. Every camera movement must support the story.
+NARRATION: Tell the entire story using one natural, expressive background narrator with a cinematic storytelling voice. The narration must begin immediately, match the visual events precisely, and conclude within 15 seconds. Use concise, emotionally powerful language with natural pauses. The narrator is off-screen and must never appear as a character.
+CHARACTER AUDIO RULE: Characters MUST NOT speak. No dialogue, lip-sync, voice lines, talking, or audible character speech. Characters communicate exclusively through facial expressions, eye movements, gestures, body language, and actions. Only the background narrator may use a voice.
+SOUND DESIGN: Add carefully synchronized environmental ambience, subtle footsteps, object interactions, atmospheric sounds, and emotionally appropriate cinematic music. Keep the narrator clear and prominent. No unnecessary sound effects or overpowering music.
+15-SECOND STRUCTURE:
+0–3 seconds: An instantly intriguing visual hook.
+3–7 seconds: Establish the character, situation, and emotional connection.
+7–11 seconds: Introduce an unexpected discovery, conflict, or twist.
+11–15 seconds: Deliver a memorable emotional payoff or surprising conclusion.
+CONTINUITY: Maintain consistent characters, clothing, props, lighting direction, environment, movement, and spatial relationships across all shots. Ensure physically believable interactions and logical cause-and-effect.
+STRICT QUALITY CONTROL: No AI-looking visuals, plastic skin, uncanny faces, distorted hands, extra fingers, flickering textures, inconsistent proportions, duplicated objects, morphing characters, artificial movement, random camera cuts, visual glitches, unwanted text, subtitles, watermarks, logos, or accidental speech.
+FINAL OUTPUT: A complete 15-second animated story with a strong narrative, exceptionally detailed visuals, natural animation, cinematic sound design, and synchronized background narration. Make every second contribute to the story. Prioritize emotional impact, realism, originality, and professional filmmaking quality.

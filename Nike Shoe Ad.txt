@@ -1,0 +1,113 @@
+Nike Shoe Ad
+Shot 1: NIKE FOOTWEAR COMMERCIAL — 5-SECOND CINEMATIC VIDEO PROMPT
+
+Create an exactly 5-second, ultra-photorealistic, premium Nike footwear advertisement using the supplied shoe product reference and face reference. The video must resemble a professionally filmed sportswear campaign, with realistic human movement, precise camera choreography, beautiful environmental design, exceptional product detail, and seamless shot transitions.
+
+REFERENCE IMAGE 1 — EXACT SHOE PRODUCT:
+
+Use the supplied Nike shoe image as the absolute product reference. Preserve the exact original shoe silhouette, swoosh logo, color scheme, upper material, stitching, lace arrangement, tongue, heel construction, midsole, outsole, and proportions. Do not invent, remove, or modify any product details. Keep the shoe consistent in every frame.
+
+REFERENCE IMAGE 2 — PERSON IDENTITY:
+
+Use the supplied face reference to preserve the exact person's facial identity, hairstyle, skin tone, and recognizable features whenever the face is visible. Maintain realistic anatomy, natural body proportions, and believable walking mechanics. The person wears the exact referenced Nike shoes on both feet. Keep the same outfit throughout the video, with clothing that complements the premium sportswear aesthetic.
+
+SCENE AND ENVIRONMENT:
+
+Set the advertisement in a high-end contemporary architectural environment featuring a wide, dark charcoal stone walkway, large minimalist concrete walls, elegant glass panels, subtle metallic architectural details, and a sophisticated open space extending into the background. The polished floor should produce subtle, physically accurate reflections of the shoes and surrounding lights. Add realistic environmental depth, carefully placed architectural light strips, and a faint atmospheric haze in the distance. The environment should look like a real luxury commercial location, not a CGI showroom. Keep the background visually rich but secondary to the shoe.
+
+SHOT 1 — EXTREME LOW-ANGLE SIDE TRACKING SHOT (0.0–1.2 SECONDS)
+
+CAMERA POSITION: Place the camera approximately 10–15 cm above the floor, about 40–60 cm away from the shoe, positioned perpendicular to the person's walking direction.
+
+CAMERA ANGLE: Extreme low-angle side view, with the lens pointing slightly upward at the shoe and lower leg. The camera must be nearly parallel to the floor, revealing the shoe's side profile and outsole thickness.
+
+LENS AND FRAMING: Use a 35mm cinematic lens aesthetic. Frame the shoe prominently in the lower-middle portion of the image, with the lower leg entering from the top edge. Keep the entire shoe visible without cropping the toe or heel. The distant architecture should occupy the upper background.
+
+SUBJECT ACTION: The person takes one natural, confident forward step. Show the foot lifting, moving forward, and approaching the ground with believable weight transfer. The sole must contact the floor naturally, with no sliding, floating, or unnatural foot rotation.
+
+CAMERA MOVEMENT: Track smoothly sideways in synchronization with the shoe, maintaining a nearly constant distance and keeping the shoe at the same screen position. The background should move gently in the opposite direction, producing realistic parallax.
+
+LIGHTING: A soft directional light from the side reveals the shoe silhouette, upper texture, sole edges, and stitching. Subtle reflections appear on the polished floor directly beneath the shoe.
+
+FOCUS: Keep the shoe sharply focused while the architectural background remains moderately soft.
+
+TRANSITION: As the shoe finishes contacting the ground, smoothly move the camera closer toward the outer side of the shoe, transitioning into the product-detail shot without a jarring jump.
+
+SHOT 2 — EXTREME MACRO THREE-QUARTER PRODUCT CLOSE-UP (1.2–2.5 SECONDS)
+
+CAMERA POSITION: Position the camera approximately 15–25 cm from the shoe, around 8–12 cm above the ground, facing the outer side of the shoe from a front three-quarter angle.
+
+CAMERA ANGLE: A low three-quarter angle of approximately 30–45 degrees relative to the shoe's longitudinal axis. The camera should reveal the toe box, outer side panel, Nike swoosh, laces, and a portion of the midsole in one composition.
+
+LENS AND FRAMING: Use an 85mm macro-style lens aesthetic. Fill approximately 70–85% of the frame with the shoe. Keep the swoosh and upper material as the primary visual focal points, while retaining enough of the shoe outline to preserve its identity.
+
+SUBJECT ACTION: The person's foot remains naturally planted, with only subtle, physically believable body movement. Do not make the shoe rotate unnaturally or flex excessively just to reveal details.
+
+CAMERA MOVEMENT: Perform a slow, controlled 10–15 cm forward dolly movement toward the shoe while moving slightly from the toe toward the middle of the outer side panel. The camera movement should be smooth and deliberate, never shaky or excessively fast.
+
+DETAILS TO SHOW: Individual lace fibers, eyelets, stitching lines, the original Nike swoosh, fine fabric weave, realistic material grain, tongue construction, midsole texture, and natural transitions between different shoe materials. Every detail must match the supplied product image.
+
+FOCUS AND DEPTH OF FIELD: Focus precisely on the swoosh and adjacent upper material. Use a shallow depth of field, with gradual optical falloff toward the nearest toe and distant heel. Avoid excessive blur that hides the shoe's essential design.
+
+LIGHTING: Use a soft side key light grazing across the material to reveal texture, combined with a subtle rim light along the shoe's upper edge. Preserve the true shoe colors and avoid overexposed highlights.
+
+TRANSITION: Let the camera's close movement naturally continue around the toe area, opening the perspective into the next shot. Maintain consistent lighting, product orientation, and spatial continuity.
+
+SHOT 3 — LOW THREE-QUARTER ORBITAL TRACKING SHOT (2.5–3.8 SECONDS)
+
+CAMERA POSITION: Keep the lens approximately 15–25 cm above the floor and around 50–70 cm from the shoe. Position the camera near the front outer corner of the shoe, slightly ahead of the person's foot.
+
+CAMERA ANGLE: Low front three-quarter view, approximately 35–45 degrees above the horizontal floor plane in terms of upward viewing direction, with the lens angled slightly upward to capture the shoe and lower leg. Keep the shoe's toe, outer side, and a portion of the upper visible.
+
+LENS AND FRAMING: Use a 50mm cinematic lens aesthetic. Frame the shoe as the dominant subject in the lower-center of the image. Include the lower leg and a portion of the second shoe in the background for context, without allowing them to distract from the primary product.
+
+SUBJECT ACTION: The person completes the forward step and naturally settles into a stable standing position. The front shoe must remain planted and anatomically aligned. The second foot follows naturally, without exaggerated posing.
+
+CAMERA MOVEMENT: Execute a smooth, shallow 20–30-degree arc around the front outer side of the shoe, moving from the side toward the toe. Combine the arc with a subtle lateral tracking movement. Do not perform a complete 360-degree orbit. The shoe should remain consistently framed while the background architecture shifts naturally through parallax.
+
+FOCUS: Keep the primary shoe crisp throughout the camera arc. Maintain realistic perspective and consistent shoe dimensions. Do not allow the logo, laces, toe shape, or sole to change during the movement.
+
+LIGHTING: A soft overhead architectural light defines the toe and lace structure. A controlled side light reveals the swoosh and material grain, while a faint edge light separates the shoe from the darker background.
+
+BACKGROUND: Show the tall concrete walls, glass architecture, and distant linear lighting moving smoothly behind the subject. Use realistic depth and subdued reflections. No distracting people or moving objects.
+
+TRANSITION: As the camera completes its short arc, gradually reduce the lateral movement and align the lens with the final hero-shot angle. The motion must feel like one continuous professional camera operation.
+
+SHOT 4 — LOW-ANGLE HERO PRODUCT SHOT (3.8–5.0 SECONDS)
+
+CAMERA POSITION: Position the camera approximately 12–18 cm above the floor and 35–50 cm away from the primary shoe, facing the outer front three-quarter side.
+
+CAMERA ANGLE: A dramatic low-angle product view, with the lens tilted slightly upward to emphasize the shoe's profile, midsole thickness, toe shape, and swoosh. The camera must not look down from above.
+
+LENS AND FRAMING: Use an 85mm portrait/product lens aesthetic. Fill approximately 75–85% of the frame with the shoe. Keep the complete shoe silhouette visible, with the swoosh and material details clearly readable. The lower leg can remain visible, but the shoe must dominate the composition.
+
+SUBJECT ACTION: The person holds a confident, relaxed stance with the primary shoe planted firmly on the floor. There is no unnecessary foot movement, exaggerated pose, or artificial shoe rotation.
+
+CAMERA MOVEMENT: Execute a slow, controlled 5–10 cm forward dolly push toward the shoe. Reduce the camera movement smoothly near the end, finishing with a stable composition. Do not use digital zoom, sudden acceleration, handheld shake, or an abrupt stop.
+
+PRODUCT EMPHASIS: Clearly showcase the exact Nike swoosh, original colors, toe construction, laces, stitching, side panel, and sole texture. The shoe must appear tangible and physically present, with accurate contact shadows beneath the outsole.
+
+LIGHTING: Use a soft directional key light to reveal surface detail, subtle rim lighting along the shoe silhouette, and controlled highlights on the materials. Add a realistic floor reflection that fades naturally with distance. Keep the background dark enough to separate the shoe while preserving architectural detail.
+
+FINAL FRAME: End on a visually powerful, sharply focused hero composition. The shoe remains completely stable and retains its exact reference design. The background is softly blurred, with tasteful architectural highlights and premium cinematic contrast. No text or graphic overlay.
+
+CAMERA AND MOTION RULES:
+
+All camera movements must be physically plausible and professionally stabilized. Use natural motion blur only during movement, realistic optical depth of field, consistent exposure, believable focus transitions, and smooth temporal continuity. Each shot must have a distinct purpose: establish the shoe, reveal product details, add dimensionality, and finish with a memorable hero image.
+
+COLOR GRADING AND REALISM:
+
+Premium sportswear commercial color grading, rich but natural blacks, accurate shoe colors, controlled contrast, realistic skin texture, detailed fabric fibers, physically correct reflections, natural shadow softness, cinematic dynamic range, and photorealistic 4K-quality detail. Avoid excessive sharpening, artificial HDR, oversaturation, and synthetic-looking materials.
+
+AUDIO:
+
+No dialogue, no voice-over, no narration, no singing, and no spoken words. Use only restrained cinematic instrumental music, subtle realistic footsteps synchronized with the visible footfalls, and a soft premium sound accent during the final hero shot.
+
+STRICT NEGATIVE CONSTRAINTS:
+
+No redesigned shoes, no incorrect Nike swoosh, no misspelled branding, no changing shoe colors, no flickering logos, no melting textures, no geometry morphing, no duplicated shoes, no extra limbs, no deformed feet, no floating or sliding footsteps, no unnatural gait, no unrealistic reflections, no excessive lens flare, no random text, no subtitles, no watermarks, no abrupt cuts, and no inconsistent lighting between shots.
+
+FINAL OUTPUT:
+
+Exactly 5 seconds. Vertical 9:16 composition for Instagram Reels and YouTube Shorts. Four clearly defined cinematic shots with smooth transitions, precise camera angles, realistic human movement, beautiful architectural backgrounds, exceptional shoe detailing, and premium Nike advertising aesthetics.
+

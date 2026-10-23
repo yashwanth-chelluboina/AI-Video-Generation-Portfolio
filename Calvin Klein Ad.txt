@@ -1,0 +1,77 @@
+Calvin Klein Ad
+Shot 1: Create an ultra-photorealistic 9:16 vertical fashion-advertising image using the supplied face reference and exact Calvin Klein bra product reference.
+COMPOSITION: Front-facing medium shot of the same adult female model, framed from approximately the waist upward. She looks directly into the camera with a natural, confident, friendly expression, as if beginning a genuine product review. Her lips are slightly parted as she starts speaking, with relaxed shoulders and a subtle, natural hand gesture.
+IDENTITY LOCK: Preserve the exact facial identity from the face reference, including facial proportions, eyes, eyebrows, nose, lips, natural skin tone, hairline, center parting, and long straight black hair. No face replacement, beautification, or identity drift.
+PRODUCT ACCURACY: Reproduce the exact Calvin Klein bra from the supplied product reference. Preserve its original black colour, shape, straps, stitching, fabric texture, and authentic logo placement. Make the Calvin Klein branding clearly legible and naturally visible without enlarging, relocating, or inventing the logo.
+CAMERA: Authentic premium iPhone Pro video aesthetic, eye-level camera, natural portrait perspective equivalent to approximately 48–50 mm where supported, stable framing, realistic depth of field, sharp eyes, and detailed garment texture. Avoid wide-angle distortion and artificial background blur.
+LIGHTING AND COLOUR: Soft directional studio lighting, warm natural skin highlights, a neutral beige-grey background, balanced exposure, realistic blacks, gentle contrast, and natural colour grading matching a high-quality creator-style product advertisement.
+REALISM: Visible natural skin pores, fine peach fuzz, subtle skin variations, individual hair strands, realistic eyelashes, natural eye reflections, detailed fabric weave, accurate seams, and physically believable shadows. No waxy skin, plastic appearance, excessive smoothing, or CGI look.
+STYLE: Tasteful, non-sexualized, premium lingerie product advertising. Natural influencer-review presentation, relaxed posture, authentic human expression, and polished commercial quality.
+NEGATIVE PROMPT: Different face, identity drift, altered hairstyle, artificial skin, excessive retouching, distorted anatomy, deformed hands, extra fingers, incorrect logo, misspelled branding, invented branding, altered bra design, incorrect straps, blurry fabric, exaggerated body proportions, wide-angle distortion, artificial bokeh, harsh lighting, oversaturation, text artifacts, and watermarks.
+OUTPUT: One single still image, 9:16 vertical, suitable as the first frame of a seven-second, three-shot Seedance 2.5 product video.
+
+Shot 2: Create one ultra-photorealistic 9:16 vertical image using the supplied adult female model's face reference and the exact Calvin Klein bra product reference. This is the second shot in a three-shot sequence for a seven-second fashion product video.
+
+SHOT COMPOSITION: A natural three-quarter side-profile medium shot, framed from the head to the waist. The model gently turns her shoulders approximately 45–60 degrees sideways while keeping her head slightly turned toward the camera. Her expression is confident, relaxed, and friendly, as if continuing to explain the product to viewers. Her posture is natural, with one hand making a subtle, relaxed explanatory gesture near waist level. Avoid exaggerated posing.
+
+EXACT FACE IDENTITY — CRITICAL: Preserve the same facial identity as the supplied face reference, including facial proportions, eyes, eyebrows, nose, lips, natural skin tone, hairline, and long straight black hair with the same center parting. Maintain realistic facial anatomy and natural expression. No face changes, identity drift, artificial beautification, or hairstyle changes.
+
+EXACT CALVIN KLEIN PRODUCT — CRITICAL: Reproduce the supplied Calvin Klein bra accurately, preserving the original black colour, cup shape, shoulder straps, underwire, stitching, fabric texture, fit, and authentic logo placement. Keep the Calvin Klein logo clearly visible from the camera angle whenever physically plausible. Do not invent, enlarge, reposition, distort, or misspell the branding. Do not redesign the garment.
+
+SKIN AND HAIR REALISM: Highly detailed natural skin pores, fine peach fuzz, subtle skin-tone variations, realistic highlights and shadows, individual hair strands, fine flyaway hairs, realistic hairline, detailed eyelashes, and natural eye reflections. Avoid waxy skin, plastic textures, excessive smoothing, and beauty-filter effects.
+
+CAMERA AND IPHONE LOOK: Authentic premium iPhone Pro video aesthetic, natural portrait perspective equivalent to approximately 48–50 mm where supported, eye-level camera, stable framing, realistic depth of field, sharp facial details, and accurate fabric rendering. Maintain consistent lens perspective and subject proportions. No wide-angle distortion, artificial bokeh, or excessive sharpening.
+
+LIGHTING AND COLOUR GRADING: Soft directional studio lighting with warm, natural skin highlights, a neutral beige-grey background, balanced exposure, realistic black fabric, gentle contrast, and slightly warm creator-style commercial colour grading. Match Shot 1's lighting, white balance, background, and overall visual tone.
+
+CONTINUITY: This must look like the same model, in the same studio, wearing the same bra moments later. Preserve identity, hairstyle, skin tone, garment construction, branding, camera height, lighting direction, and colour grading.
+
+NEGATIVE PROMPT: Different face, identity drift, changed hairstyle, artificial skin, waxy complexion, excessive retouching, distorted anatomy, malformed hands, extra fingers, incorrect logo, misspelled Calvin Klein branding, altered bra design, changing straps, garment morphing, unrealistic fabric, exaggerated body proportions, unnatural posture, wide-angle distortion, artificial background blur, harsh shadows, oversaturation, flickering-style artifacts, text artifacts, watermarks, sexualized posing, and suggestive framing.
+
+OUTPUT: One single photorealistic still image, 9:16 vertical, designed as the second reference frame for a realistic three-shot Seedance 2.5 product video.
+
+Shot 3: HIGGSFIELD AI — IMAGE GENERATION | SHOT 3: CALVIN KLEIN BRAND-FOCUSED CLOSE-UP
+
+FORMAT: 9:16 vertical | Ultra-photorealistic | Premium iPhone Pro camera aesthetic | Fashion product advertising | Final shot in a three-shot sequence for a 7-second Reel.
+
+REFERENCE 1 — EXACT MODEL IDENTITY: Use the supplied face reference as the definitive identity source. Preserve the same adult woman's facial structure, eyes, eyebrows, nose, lips, natural skin tone, long straight black hair, center parting, hairline, and natural appearance. Her identity must remain identical to Shots 1 and 2.
+
+REFERENCE 2 — EXACT PRODUCT: Use the supplied Calvin Klein bra image as the definitive product reference. Reproduce the original black bra, including its exact cup construction, straps, stitching, fabric texture, waistband or logo placement where applicable, and authentic Calvin Klein branding. Never invent or redesign the logo.
+
+SHOT COMPOSITION: Create a polished, brand-focused close-up in a vertical 9:16 frame. The model is positioned at a natural three-quarter angle, gently turning toward the camera. Frame her face and the relevant branded garment area together wherever physically possible, giving clear visual priority to the authentic Calvin Klein logo and garment details. Her face remains recognizable, with a calm, confident expression and a subtle, natural smile, as though she has just finished explaining the product. Keep the composition tasteful, professional, and suitable for a mainstream fashion advertisement.
+
+BRAND VISIBILITY — HIGHEST PRIORITY: Make the original Calvin Klein logo easy to see, sharply focused, correctly spelled, and faithful to the product reference. Preserve its authentic size, typography, colour, and physical placement. Use realistic lighting and a suitable camera angle to improve visibility without artificially enlarging, moving, or duplicating the logo. Keep the garment's stitching, seams, straps, and fabric weave crisp and detailed.
+
+SKIN AND HAIR REALISM: Render natural skin pores, fine peach fuzz, subtle skin-tone variation, realistic highlights and shadows, individual hair strands, fine flyaway hairs, a natural hairline, detailed eyebrows and eyelashes, and lifelike eye reflections. Avoid plastic-looking skin, excessive smoothing, artificial beauty filters, and over-sharpening.
+
+CAMERA: Authentic premium iPhone Pro recording aesthetic, natural portrait perspective equivalent to approximately 48–50 mm where supported, stable eye-level composition, consistent perspective, realistic depth of field, and sharp focus across the logo and essential garment details. Preserve believable facial proportions. Avoid wide-angle distortion, excessive background blur, artificial bokeh, and digital zoom artifacts.
+
+LIGHTING AND COLOUR GRADING: Match Shots 1 and 2 with the same warm, softly golden skin highlights, neutral beige-grey studio background, soft directional lighting, gentle shadows, realistic black fabric, balanced exposure, natural contrast, and subtle smartphone-style HDR. Maintain consistent white balance and skin colour.
+
+CONTINUITY: This is the final moment of the same product advertisement. Preserve the exact model identity, hairstyle, bra design, logo placement, studio environment, lighting direction, colour grade, and realistic iPhone-style visual texture established in the first two shots. The image should feel like a frame captured moments later during the same recording session.
+
+NEGATIVE PROMPT: Different face, identity drift, altered facial proportions, changed hairstyle, artificial skin, waxy complexion, blurred pores, fake hair, incorrect or misspelled Calvin Klein logo, invented lettering, duplicated branding, altered garment design, misplaced straps, fabric morphing, distorted anatomy, malformed hands, excessive sharpening, wide-angle distortion, artificial bokeh, harsh lighting, oversaturation, orange skin, inconsistent colour grading, text artifacts, watermarks, sexualized framing, and suggestive posing.
+
+FINAL OUTPUT: One highly realistic 9:16 vertical still image with recognizable facial identity and prominent, authentic Calvin Klein product branding. The final frame should look like genuine premium iPhone footage captured for a professional, understated lingerie product advertisement.
+
+Shot 4: HIGGSFIELD AI — IMAGE GENERATION | SHOT 5: AUTHENTIC PRODUCT DETAIL
+
+FORMAT: 9:16 vertical | Ultra-photorealistic | Commercial product photography with natural iPhone Pro video realism.
+
+REFERENCES: Use the supplied face reference to preserve the same adult model's identity and the supplied Calvin Klein bra reference to reproduce the exact garment. Maintain the same facial features, natural skin tone, long straight black hair, and hairstyle.
+
+SHOT COMPOSITION: A tasteful close-up of the model's upper torso and shoulder area, with the bra's strap, cup edge, stitching, fabric texture, and authentic branding visible where physically present in the reference. Include part of her face near the upper section of the vertical frame if composition permits, preserving recognizability and continuity. The model gently gestures toward the strap with a relaxed hand, demonstrating the product's construction without pulling, stretching, or altering the garment.
+
+PRODUCT ACCURACY: Reproduce the exact black Calvin Klein bra. Preserve its original cup shape, strap width, seams, stitching, material finish, logo design, and placement. Do not add branding to locations where it does not exist in the reference.
+
+CAMERA AND FOCUS: Close product-detail perspective with a natural portrait-equivalent lens around 48–50 mm where supported. Keep the relevant garment details and logo sharply focused, with realistic optical depth of field. Avoid macro exaggeration, wide-angle distortion, artificial blur, and focus inconsistencies.
+
+LIGHTING AND COLOUR: Soft warm studio lighting, natural skin highlights, neutral beige-grey surroundings, gentle shadows, realistic black fabric, accurate exposure, and consistent colour grading with Shots 1–4.
+
+SKIN AND MATERIAL REALISM: Visible natural skin pores, subtle skin texture, fine hair strands, realistic fabric weave, fine stitching, natural folds, and physically believable shadows. No plastic skin, excessive smoothing, fake texture, or oversharpening.
+
+BRAND PRIORITY: Keep the original Calvin Klein logo legible and faithful to the reference. Never invent letters, change the font, duplicate the logo, or artificially enlarge it.
+
+NEGATIVE PROMPT: Different identity, altered garment, incorrect stitching, wrong strap design, misspelled branding, fake logo, distorted fingers, extra fingers, plastic skin, artificial fabric, CGI, excessive sharpening, oversaturated colour, unnatural shadows, suggestive framing, text artifacts, and watermarks.
+
+OUTPUT: One detailed, photorealistic 9:16 vertical product image, visually consistent with the same model, garment, studio, and iPhone-style recording aesthetic.
