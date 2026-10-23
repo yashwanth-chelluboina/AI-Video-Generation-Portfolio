@@ -6,7 +6,7 @@ Welcome to my AI Video Creation Portfolio, showcasing my skills in AI-powered vi
 
 Explore my complete collection of AI-generated videos, images, creative experiments, and other visual projects in one place.
 
-**[📁 View All My Samples on Google Drive](https://drive.google.com/drive/folders/1UOjltCZPU2Hd7L58vyFMT39Pwn3VVN5w?usp=drive_link)**
+**[📁 View All My Samples on Google Drive](https://drive.google.com/drive/folders/1UOjltCZPU2Hd7L58vyFMT39Pwn3VVN5w?usp=sharing)**
 
 This folder contains my video creations, product advertisements, cinematic visuals, animated stories, image-generation samples, and other creative work demonstrating my skills in AI prompting and visual content creation.
 
